@@ -16,3 +16,5 @@
 
 
 ### Em resumo: O código simula um aumento constante e linear na intensidade de uma variável (Beta) ao longo de 1000 etapas.
+
+**Atividade 1** - Exemplo de criação de imagem  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erik-oliveira-leao/tempestade/blob/main/tempestade.ipynb)<br>
